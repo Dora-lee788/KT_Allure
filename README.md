@@ -19,7 +19,7 @@ python -m pytest ./tests -v
 
 ## Отчёт Allure
 
-HTML-отчёт с результатами тестирования находится в файле `allure-report/awesome/index.html`.
+HTML-отчёт с результатами тестирования находится в файле `[allure-report/awesome/index.html](https://dora-lee788.github.io/KT_Allure/)`.
 
 Всего выполнено 24 теста.
 
