@@ -9,7 +9,7 @@
 
 ## Отчёт Allure
 
-[Открыть HTML-отчёт Allure](https://dora-lee788.github.io/KT_Allure/)
+
 
 Всего выполнено 24 теста.
 
